@@ -1,10 +1,10 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import HarishLogo from "../Assets/HarishLogo.png";
+import rishitha_logo from "../Assets/rishitha_logo.png";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
-  AiFillInstagram,
+  // AiOutlineTwitter,
+  // AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import { Link } from "react-router-dom";
@@ -17,7 +17,7 @@ const Footer = () => {
       <Row>
         <Col md="4" className="footer-copywright">
           <img
-            src={HarishLogo}
+            src={rishitha_logo}
             className="img-fluid  footer-logo"
             alt="brand"
           />
@@ -50,7 +50,7 @@ const Footer = () => {
           <ul className="home-about-social-links">
             <li className="social-icons">
               <a
-                href="https://github.com/Harish1611"
+                href="https://github.com/Rishitha-Bitla"
                 target="_blank"
                 rel="noreferrer"
                 className="icon-colour  home-social-icons"
@@ -60,32 +60,12 @@ const Footer = () => {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/harish-naidu-bonam/"
-                target="_blank"
-                rel="noreferrer"
-                className="icon-colour  home-social-icons"
-              >
-                <AiOutlineTwitter />
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
-                href="https://www.linkedin.com/in/harish-naidu-bonam/"
+                href="https://www.linkedin.com/in/rishitha-reddy-bitla/"
                 target="_blank"
                 rel="noreferrer"
                 className="icon-colour  home-social-icons"
               >
                 <FaLinkedinIn />
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
-                href="https://www.linkedin.com/in/harish-naidu-bonam/"
-                target="_blank"
-                rel="noreferrer"
-                className="icon-colour home-social-icons"
-              >
-                <AiFillInstagram />
               </a>
             </li>
           </ul>
@@ -94,12 +74,12 @@ const Footer = () => {
       <Row className="footer-bottom-col">
         <hr></hr>
         <Col md="6">
-          <h4 className="footer-bottom">Copyright © {year} HarishOffical</h4>
+          <h4 className="footer-bottom">Copyright © {year} RishithaOffical</h4>
         </Col>
 
         <Col md="6">
           <h4 className="footer-bottom">
-            Designed and Developed by Harish N Bonam
+            Designed and Developed by Rishitha
           </h4>
         </Col>
       </Row>

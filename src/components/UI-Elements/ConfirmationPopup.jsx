@@ -7,10 +7,10 @@ const ConfirmationPopup = ({ message, onClose }) => {
   useEffect(() => {
     const timer = setTimeout(() => {
       setIsVisible(false);
-      onClose(); 
-    }, 3000); 
+      onClose();
+    }, 3000);
 
-    return () => clearTimeout(timer); 
+    return () => clearTimeout(timer);
   }, [onClose]);
 
   return (

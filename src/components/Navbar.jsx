@@ -2,8 +2,8 @@ import React, { useState } from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
-import HarishLogo from "../Assets/HarishLogo.png";
-import MobileLogo from "../Assets/mobileLogo.png";
+import rishitha_logo from "../Assets/rishitha_logo.png";
+// import MobileLogo from "../Assets/mobileLogo.png";
 import { Link } from "react-router-dom";
 
 const NavBar = () => {
@@ -29,8 +29,8 @@ const NavBar = () => {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-          <img src={HarishLogo} className="img-fluid logo" alt="brand" />
-          <img src={MobileLogo} className="img-fluid mobile-logo" alt="brand" />
+          <img src={rishitha_logo} className="img-fluid logo" alt="brand" />
+          {/* <img src={MobileLogo} className="img-fluid mobile-logo" alt="brand" /> */}
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"

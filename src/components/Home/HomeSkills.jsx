@@ -5,7 +5,6 @@ import {
   DiReact,
   DiNodejs,
   DiMongodb,
-  DiJava,
 } from "react-icons/di";
 
 const HomeSkills = () => {
@@ -24,10 +23,6 @@ const HomeSkills = () => {
 
       <Col xs={4} md={2} className="tech-icons">
         <DiMongodb />
-      </Col>
-
-      <Col xs={4} md={2} className="tech-icons">
-        <DiJava />
       </Col>
     </Row>
   );

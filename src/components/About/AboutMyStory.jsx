@@ -33,28 +33,16 @@ const AboutMyStory = () => {
           <animated.div className="text" ref={textRef} style={textAnimation}>
             <p className="mystory">
               &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;{" "}
-              <span style={{ color: "#c770f0" }}>Hello there,</span> I'm Harish
-              Naidu Bonam, hailing from the charming city of Vijayawada in
-              Andhra Pradesh, India. Armed with a B.Tech degree in Electronics
-              and Communications Engineering.Though my academic roots lie in
-              electronics, I'm more inclined towards Software.
-              <div className="mystory-div"></div> I've honed my skills in a
-              variety of languages and technologies, including{" "}
-              <span style={{ color: "#c770f0" }}>
-                {" "}
-                JavaScript, Java, C, PHP, HTML, CSS3, Bootstrap, SQL, MongoDB,
-                Mongoose, ReactJS, NodeJS, ExpressJS, Postman, WordPress
-              </span>{" "}
-              and more. While I thrive in the digital realm, I've also delved
-              into freelancing and crafted couple of great websites using
-              WordPress, Elementor, PHP, JS, HTML, CSS3, and more. To support my
-              journey, I've taken up freelancing, primarily developing websites
-              with WordPress and PHP, to manage my EMIs.
+              <span style={{ color: "#c770f0" }}>Hello there,</span> I'm Rishitha
+              Reddy Bitla. I'm driven by a strong passion for transforming data into meaningful insights that support smart, informed decisions. Currently pursuing a Master’s in Data Analytics Engineering at George Mason University, I’ve built a solid foundation in data analysis, visualization, and business intelligence through academic coursework and hands-on projects.
+              With practical skills in <span style={{ color: "#c770f0" }}>
+                {" "}Python, SQL, R, Power BI, and data modeling </span>{" "}, I’ve tackled real-world challenges such as predicting employee attrition, analyzing global financial trends, and building NLP models for emotion detection. I enjoy designing intuitive dashboards, streamlining data workflows, and extracting key patterns from complex datasets
+              <div className="mystory-div"></div>
               <div className="mystory-div"></div>{" "}
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now, I'm on the
               lookout for an opportunity as a{" "}
               <span style={{ color: "#c770f0" }}>
-                Fullstack/Software Developer
+                Data Analyst
               </span>{" "}
               to further my career in this dynamic field.
             </p>

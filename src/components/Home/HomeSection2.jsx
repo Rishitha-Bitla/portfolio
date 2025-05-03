@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import HomeAboutCard from "./HomeAboutCard";
-import myPic from "../../Assets/myImage.png";
+import mypic from "../../Assets/mypic.jpeg";
 import HomeSkills from "./HomeSkills";
 import HeadingDivider from "../UI-Elements/HeadingDivider";
 import { useSpring, animated, config, useInView } from "react-spring";
@@ -37,9 +37,9 @@ const HomeSection2 = () => {
         <Row>
           <animated.div ref={homeAboutCardRef} style={homeAboutCard}>
             <HomeAboutCard
-              imgPath={myPic}
+              imgPath={mypic}
               title="Meet the Creator"
-              description="I'm Harish Naidu Bonam, hailing from the charming city of Vijayawada in Andhra Pradesh, India. Armed with a B.Tech degree in Electronics and Communications Engineering.Though my academic roots lie in electronics, I'm more inclined towards Software. I'm fimiliar with HTML, CSS, JS, ReactJS,NodeJS,ExpressJS, BootStrap, MySQL, Java. I can design a website for you as a freelance project, contact me if needed."
+              description="I'm Rishitha Reddy Bitla. Armed with a B.Tech degree in Electronics and Communications Engineering.Though my academic roots lie in electronics, I'm more inclined towards Software. I'm fimiliar with HTML, CSS, JS, ReactJS,NodeJS,ExpressJS, BootStrap, SQL, C, C Sharp."
             />
           </animated.div>
         </Row>

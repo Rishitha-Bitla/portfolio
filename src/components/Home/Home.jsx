@@ -47,9 +47,9 @@ const Home = () => {
               <animated.div ref={heroContentRef} style={heroContent}>
                 <h1 className="heading-name headingstyle">
                   I'm
-                  <strong className="main-name"> Harish Naidu</strong>
+                  <strong className="main-name"> Rishitha Reddy Bitla</strong>
                 </h1>
-                <h2 className="heading-namesub">FullStack Developer</h2>
+                <h2 className="heading-namesub">Data Analyst</h2>
                 <div style={{ padding: 50, textAlign: "left" }}></div>
               </animated.div>
             </Col>
