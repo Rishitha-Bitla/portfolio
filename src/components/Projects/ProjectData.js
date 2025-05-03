@@ -1,5 +1,5 @@
 import facial_img from "../../Assets/facial_img.jpg";
-// import portfolio from "../../Assets/portfolio.png";
+import port_img from "../../Assets/port_img.png";
 // import expenseTracker from "../../Assets/expense-tracker.png";
 // import blossom from "../../Assets/blossom.png";
 // import todoApp from "../../Assets/todo-app.png";
@@ -7,6 +7,7 @@ import facial_img from "../../Assets/facial_img.jpg";
 // import drumGame from "../../Assets/drum-game.png";
 // import diceRoll from "../../Assets/dice-roll.png";
 // import quicktodo from "../../Assets/quicktodo.png";
+
 import TODO from "../../Assets/TODO.jpg";
 
 // const placeHolder = "https://placehold.co/600x400";
@@ -26,13 +27,13 @@ export const ProjectData = [
     gitLink: "https://github.com/Rishitha-Bitla/FastAPI",
     // demoLink: "https://pharma-medical-management-system.vercel.app/",
   },
-  // {
-  //   title: "My Protfolio - React",
-  //   description: "",
-  //   img: portfolio,
-  //   gitLink: "https://github.com/Harish1611/Portfolio-Website-React",
-  //   demoLink: "https://portfolio-website-react-eta.vercel.app/",
-  // },
+  {
+    title: "My Protfolio",
+    description: "React",
+    img: port_img,
+    gitLink: "https://github.com/Rishitha-Bitla/portfolio",
+    demoLink: "https://portfolio-pearl-chi-81.vercel.app/",
+  },
   // {
   //   title: "Quick Todo - React",
   //   description: "",
