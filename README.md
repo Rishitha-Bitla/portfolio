@@ -6,7 +6,7 @@
 
 <br/>
 
-![Demo Pic](src/Assets/readmeDemo.png)
+<!-- ![Demo Pic](src/Assets/readmeDemo.png) -->
 
 ## About Project
 
@@ -33,7 +33,7 @@ Follow these steps to set up the application:
 1. Open Powershell/Terminal and Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Harish1611/Portfolio-Website-React.git
+   git clone https://github.com/Rishitha-Bitla/portfolio.git
    ```
 
 2. Navigate to the project directory:
