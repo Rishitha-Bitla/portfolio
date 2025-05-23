@@ -88,9 +88,9 @@ import "../../style.css";
 import HeadingDivider from "../UI-Elements/HeadingDivider";
 
 // Replace this with your hosted PDF URL (from Google Drive or GitHub)
-const pdf = "https://drive.google.com/file/d/14tvAsUhYw3KY_dqNRa9_F1SXW9Gjtwt2/view?usp=sharing";
+const pdf = "https://drive.google.com/file/d/1TCih2AYFpxzBAPDy10pqTEQXSeVlFu-e/view?usp=sharing";
 const updatedResumeGitLink =
-  "https://drive.google.com/file/d/14tvAsUhYw3KY_dqNRa9_F1SXW9Gjtwt2/view?usp=sharing";
+  "https://drive.google.com/file/d/1TCih2AYFpxzBAPDy10pqTEQXSeVlFu-e/view?usp=sharing";
 
 const Resume = () => {
   return (

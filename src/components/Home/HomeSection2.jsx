@@ -39,7 +39,7 @@ const HomeSection2 = () => {
             <HomeAboutCard
               imgPath={mypic}
               title="Meet the Creator"
-              description="I'm Rishitha Reddy Bitla. Armed with a B.Tech degree in Electronics and Communications Engineering.Though my academic roots lie in electronics, I'm more inclined towards Software. I'm fimiliar with HTML, CSS, JS, ReactJS,NodeJS,ExpressJS, BootStrap, SQL, C, C Sharp."
+              description="I am Rishitha Reddy Bitla, a Master's graduate in Data Analytics Engineering, with a B.Tech degree in Electronics and Communications Engineering. Although my academic background is in electronics, my true passion lies in software development. I am proficient in HTML, CSS, JS, ReactJS, NodeJS, ExpressJS, Bootstrap, SQL, R, Python, C, and C Sharp."
             />
           </animated.div>
         </Row>

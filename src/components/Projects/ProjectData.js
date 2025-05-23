@@ -1,5 +1,6 @@
 import facial_img from "../../Assets/facial_img.jpg";
 import port_img from "../../Assets/port_img.png";
+import ClimateGPT from "../../Assets/ClimateGPT.png";
 // import expenseTracker from "../../Assets/expense-tracker.png";
 // import blossom from "../../Assets/blossom.png";
 // import todoApp from "../../Assets/todo-app.png";
@@ -17,7 +18,7 @@ export const ProjectData = [
     title: "Emotion_Detection",
     description: "",
     img: facial_img,
-    gitLink: "https://github.com/Vrishin-Reddy/Emotion_Detection",
+    gitLink: "https://github.com/Rishitha-Bitla/Emotion_Detection",
     // demoLink: "https://big-sale-e-commerce-frontend.vercel.app/",
   },
   {
@@ -34,70 +35,10 @@ export const ProjectData = [
     gitLink: "https://github.com/Rishitha-Bitla/portfolio",
     demoLink: "https://portfolio-pearl-chi-81.vercel.app/",
   },
-  // {
-  //   title: "Quick Todo - React",
-  //   description: "",
-  //   img: quicktodo,
-  //   gitLink: "https://github.com/Harish1611/Quick-Todo",
-  //   demoLink: "https://quick-todo-one.vercel.app/",
-  // },
-  // {
-  //   title: "Expense Tracker",
-  //   description: "",
-  //   img: expenseTracker,
-  //   gitLink: "https://github.com/Harish1611/React-Expense-Tracker",
-  //   demoLink: "https://react-expense-tracker-inky.vercel.app/",
-  // },
-  // {
-  //   title: "Todo App",
-  //   description: "",
-  //   img: todoApp,
-  //   gitLink: "https://github.com/Harish1611/Todo-App",
-  //   demoLink: "https://todo-app-blush-three.vercel.app/",
-  // },
-  // {
-  //   title: "Blossom - A Dating Website UI",
-  //   description: "",
-  //   img: blossom,
-  //   gitLink: "https://github.com/Harish1611/Blossom",
-  //   demoLink: "https://harish1611.github.io/Blossom/",
-  // },
-  // {
-  //   title: "Personal Website UI",
-  //   description: "",
-  //   img: PersonalWebUI,
-  //   gitLink: "https://github.com/Harish1611/Personal-Blog-UI/tree/master",
-  //   demoLink: "https://harish1611.github.io/Personal-Blog-UI/",
-  // },
-
-  // {
-  //   title: "Drum Game",
-  //   description: "",
-  //   img: drumGame,
-  //   gitLink: "https://github.com/Harish1611/Drum-Game",
-  //   demoLink: "https://harish1611.github.io/Drum-Game/",
-  // },
-  // {
-  //   title: "Dice Roll Game",
-  //   description: "",
-  //   img: diceRoll,
-  //   gitLink: "https://github.com/Harish1611/Dice-Roll-Game",
-  //   demoLink: "https://harish1611.github.io/Dice-Roll-Game/",
-  // },
-  // {
-  //   title: "IoT Disinfection Booth",
-  //   description: "",
-  //   img: placeHolder,
-  //   gitLink: "",
-  //   demoLink: "",
-  // },
-  // {
-  //   title: "RSA & LSB Encryption App",
-  //   description: "",
-  //   img: placeHolder,
-  //   gitLink:
-  //     "https://www.linkedin.com/posts/harish-naidu-bonam_efficient-data-concealing-based-on-rsa-algorithm-activity-6927115602142642176-_bjD?utm_source=share&utm_medium=member_desktop",
-  //   demoLink:
-  //     "https://www.linkedin.com/posts/harish-naidu-bonam_efficient-data-concealing-based-on-rsa-algorithm-activity-6927115602142642176-_bjD?utm_source=share&utm_medium=member_desktop",
-  // },
+  {
+    title: "ClimateGPT",
+    description: "",
+    img: ClimateGPT,
+    gitLink: "https://github.com/Rishitha-Bitla/ClimateGPT-11",
+  },
 ];

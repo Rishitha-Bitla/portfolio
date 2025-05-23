@@ -37,7 +37,7 @@ const AboutMyJourney = () => {
             Master's Degree
           </h3>
           <br />
-          <h3 className="vertical-timeline-element-title">Score: 3.8 CGPA</h3>
+          <h3 className="vertical-timeline-element-title">Score: 3.93 CGPA</h3>
 
           <p>George Mason University</p>
         </VerticalTimelineElement>

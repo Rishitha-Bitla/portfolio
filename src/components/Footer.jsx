@@ -74,7 +74,7 @@ const Footer = () => {
       <Row className="footer-bottom-col">
         <hr></hr>
         <Col md="6">
-          <h4 className="footer-bottom">Copyright © {year} RishithaOffical</h4>
+          <h4 className="footer-bottom">Copyright © {year} RishithaOfficial</h4>
         </Col>
 
         <Col md="6">
