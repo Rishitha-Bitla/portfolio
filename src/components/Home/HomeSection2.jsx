@@ -50,7 +50,7 @@ const HomeSection2 = () => {
               <HeadingDivider color={"purple"} />
 
               <p className="home-about-body">
-                I'm fimiliar with couple of Languages, Tools & Technologies. I
+                I'm familiar with couple of Languages, Tools & Technologies. I
                 mainly works in following Technologies
               </p>
               <HomeSkills />

@@ -29,7 +29,7 @@ export const ProjectData = [
     // demoLink: "https://pharma-medical-management-system.vercel.app/",
   },
   {
-    title: "My Protfolio",
+    title: "My Portfolio",
     description: "React",
     img: port_img,
     gitLink: "https://github.com/Rishitha-Bitla/portfolio",

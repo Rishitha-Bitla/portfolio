@@ -34,7 +34,7 @@ const AboutMyStory = () => {
             <p className="mystory">
               &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;{" "}
               <span style={{ color: "#c770f0" }}>Hello there,</span> I'm Rishitha
-              Reddy Bitla. I'm driven by a strong passion for transforming data into meaningful insights that support smart, informed decisions. Currently pursuing a Master’s in Data Analytics Engineering at George Mason University, I’ve built a solid foundation in data analysis, visualization, and business intelligence through academic coursework and hands-on projects.
+              Reddy Bitla. I'm driven by a strong passion for transforming data into meaningful insights that support smart, informed decisions. As a graduate with a Master’s in Data Analytics Engineering at George Mason University, I’ve built a solid foundation in data analysis, visualization, and business intelligence through academic coursework and hands-on projects.
               With practical skills in <span style={{ color: "#c770f0" }}>
                 {" "}Python, SQL, R, Power BI, and data modeling </span>{" "}, I’ve tackled real-world challenges such as predicting employee attrition, analyzing global financial trends, and building NLP models for emotion detection. I enjoy designing intuitive dashboards, streamlining data workflows, and extracting key patterns from complex datasets
               <div className="mystory-div"></div>

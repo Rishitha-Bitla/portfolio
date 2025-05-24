@@ -105,7 +105,7 @@ const Resume = () => {
               Thank you for visiting my profile. If you are impressed with my
               profile and skills, feel free to reach out to me. You can download
               my current resume below. If it is not updated, you can always find
-              my most recent resume by clicking on the "Updated CV" button.
+              my most recent resume by clicking on the "Updated Resume" button.
               <div className="resume-message-dec">Sincerely,</div>
               <div className="resume-message-dec">Rishitha Reddy Bitla</div>
             </div>
