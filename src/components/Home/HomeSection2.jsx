@@ -50,8 +50,8 @@ const HomeSection2 = () => {
               <HeadingDivider color={"purple"} />
 
               <p className="home-about-body">
-                I'm familiar with couple of Languages, Tools & Technologies. I
-                mainly works in following Technologies
+                I'm familiar with a couple of Languages, Tools & Technologies. I
+                mainly work in the following Technologies
               </p>
               <HomeSkills />
             </animated.div>
